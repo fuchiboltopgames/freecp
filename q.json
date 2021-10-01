@@ -1,1 +1,118 @@
-
+[{
+    "id": 2,
+    "question": "When was the first Call of Duty title released?",
+    "image": "https://i.ibb.co/LzzpZGC/1-3-D1-J8-nf-Zx-PKOKFX3-Bn-MZA.png",
+    "o1": "2000",
+    "o2": "2003",
+    "o3": "2007",
+    "o4": "2010",
+    "official": 2
+},{
+    "id": 1,
+    "question": "Fans watched how much Advanced Warfare gameplay during opening week, alone?",
+    "image": "https://i.ibb.co/LzzpZGC/1-3-D1-J8-nf-Zx-PKOKFX3-Bn-MZA.png",
+    "o1": "1M",
+    "o2": "5M",
+    "o3": "16M",
+    "o4": "20M",
+    "official": 2
+},{
+    "id": 3,
+    "question": "How many grenades are thrown in CoD games over 5 years?",
+    "image": "https://i.ibb.co/LzzpZGC/1-3-D1-J8-nf-Zx-PKOKFX3-Bn-MZA.png",
+    "o1": "150M",
+    "o2": "300B",
+    "o3": "579B",
+    "o4": "100B",
+    "official": 2
+},{
+    "id": 4,
+    "question": "Exo Suits were introduced in which CoD series?",
+    "image": "https://i.ibb.co/LzzpZGC/1-3-D1-J8-nf-Zx-PKOKFX3-Bn-MZA.png",
+    "o1": "Advanced Warfare",
+    "o2": "Black Ops",
+    "o3": "World at War",
+    "o4": "Mal of Duty",
+    "official": 1
+},{
+    "id": 5,
+    "question": "What is NOT the main goal in free fire",
+    "image": "https://i.ibb.co/LzzpZGC/1-3-D1-J8-nf-Zx-PKOKFX3-Bn-MZA.png",
+    "o1": "to be first",
+    "o2": "to be the winner",
+    "o3": "he be good",
+    "o4": "to be the last one alive",
+    "official": 3
+},{
+    "id": 6,
+    "question": "Modern Warfare 3 sold how many copies in its first month?",
+    "image": "https://i.ibb.co/LzzpZGC/1-3-D1-J8-nf-Zx-PKOKFX3-Bn-MZA.png",
+    "o1": "2.1M",
+    "o2": "7.4M",
+    "o3": "8.8M",
+    "o4": "10.2M",
+    "official": 3
+},{
+    "id": 7,
+    "question": "Where does the opening scene of Modern Warfare 3 take place?",
+    "image": "https://i.ibb.co/LzzpZGC/1-3-D1-J8-nf-Zx-PKOKFX3-Bn-MZA.png",
+    "o1": "Bay of Pigs, Cuba",
+    "o2": "Financial district, NYC",
+    "o3": "Buenos Aires, Argentina",
+    "o4": "Washington Monument, Washington D.C.",
+    "official": 2
+},{
+    "id": 8,
+    "question": "In which TV series does the president play CoD?",
+    "image": "https://i.ibb.co/LzzpZGC/1-3-D1-J8-nf-Zx-PKOKFX3-Bn-MZA.png",
+    "o1": "House of Cards",
+    "o2": "The West Wing",
+    "o3": "Scandal",
+    "o4": "Veep",
+    "official": 1
+},{
+    "id": 9,
+    "question": "How do you unlock the Burger Town emblem in Modern Warfare 3?",
+    "image": "https://i.ibb.co/LzzpZGC/1-3-D1-J8-nf-Zx-PKOKFX3-Bn-MZA.png",
+    "o1": "call 3 assault UAVs in one match",
+    "o2": "get 200 one-shot kills with sniper rifles",
+    "o3": "kill 20 enemies with cooked grenades",
+    "o4": "stick 30 players with a Semtex grenade",
+    "official": 3
+},{
+    "id": 10,
+    "question": "What is the goal in Domination gameplay mode?",
+    "image": "https://i.ibb.co/LzzpZGC/1-3-D1-J8-nf-Zx-PKOKFX3-Bn-MZA.png",
+    "o1": "every player for himself",
+    "o2": "detonate certain bomb sites",
+    "o3": "last man standing",
+    "o4": "capture the flag",
+    "official": 4
+},{
+    "id": 11,
+    "question": "Which celebrity has admitted to a Call of Duty habit?",
+    "image": "https://i.ibb.co/LzzpZGC/1-3-D1-J8-nf-Zx-PKOKFX3-Bn-MZA.png",
+    "o1": "Will Arnett",
+    "o2": "Ice-T",
+    "o3": "Tito Ortiz",
+    "o4": "All of these celebs",
+    "official": 4
+},{
+    "id": 12,
+    "question": "Which team won the 2015 Call of Duty Championship held in Los Angeles?",
+    "image": "https://i.ibb.co/LzzpZGC/1-3-D1-J8-nf-Zx-PKOKFX3-Bn-MZA.png",
+    "o1": "Denial eSports",
+    "o2": "FaZe Red",
+    "o3": "Team EnVyUs",
+    "o4": "Male UP",
+    "official": 1
+},{
+    "id": 13,
+    "question": "What was the cash prize handed out to the top Call of Duty: Advanced Warfare gamers in 2015?",
+    "image": "https://i.ibb.co/LzzpZGC/1-3-D1-J8-nf-Zx-PKOKFX3-Bn-MZA.png",
+    "o1": "500K",
+    "o2": "1M",
+    "o3": "5M",
+    "o4": "6M",
+    "official": 2
+}]
